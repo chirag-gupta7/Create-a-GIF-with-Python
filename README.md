@@ -162,8 +162,8 @@ If this tool helped you create something amazing, we'd love to hear about it!
 
 Got questions? Ideas? Just want to chat about GIFs?
 
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: chirag15470956@example.com
+- 🐦 Twitter: [@chirag_ok](https://twitter.com/chirag_ok)
 - 💬 Issues: [GitHub Issues](https://github.com/yourusername/Create-a-GIF-with-Python/issues)
 
 ---
